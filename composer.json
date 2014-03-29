@@ -10,6 +10,19 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "php": ">=5.4"
+    },
 
+    "autoload": {
+        "psr-4": {
+            "Kafka\\": "src/Kafka",
+            "Kafka\\Tests\\": "tests/Kafka"
+        }
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
     }
 }
