@@ -1,0 +1,15 @@
+{
+    "name": "rossriley/kafka-php",
+    "description": "Kafka Consumer and Producer Library for PHP",
+    "license": "Apache",
+    "authors": [
+        {"name": "Michal Harish"},
+        {"name": "Pau Gay"},
+        {"name": "Wojtek Wajerowicz"},
+        {"name": "Ross Riley","email": "riley.ross@gmail.com"}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
